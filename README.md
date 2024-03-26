@@ -1,19 +1,6 @@
-![image](https://github.com/StefPel/StefPel/assets/145449764/32a869ba-36b3-4122-888f-e2a951b1e214)
+<div align="center">
+    <img src="https://media.licdn.com/dms/image/D4E16AQEsHQPPsKqy-w/profile-displaybackgroundimage-shrink_350_1400/0/1710927778905?e=1717027200&v=beta&t=Ofo8RPXW7dB29KFlJ44W3qAyatEvFALirOF21a5VHaU" alt="Banner" />
+  </div>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E2973&center=FAUX&vCenter=FAUX&repeat=vrai&random=FAUX&width=435&lines=Bienvenue+sur+mon+GitHub;Je+suis+St%C3%A9phanie" alt="Typing SVG" /></a></h1>
 
-
-<p align="center">
-  🚀 <b>Innovatrice Web</b> 🎨 <b>Design & UX/UI</b> 💡 <b>Marketing</b> 👨‍💻 <b>Dev</b> ✨ <b>Expériences Digitales</b>
-</p>
-
-Ma passion ? Réinventer le web en fusionnant développement, design et marketing dans des solutions uniques qui captivent.
-
-Experte en transformation digitale, je crée des expériences utilisateurs qui défient l'ordinaire.
-
-Mon mantra : innover, inspirer, impacter. Un pixel à la fois, je façonne l'avenir du numérique.
-<br/>
-
-
-<!---
-StefPel/StefPel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   <h3 align="center">🚀 Innovatrice Web 🎨 Design & UX/UI 💡 Marketing 👨‍💻 Dev ✨ Expériences Digitales</h3>
