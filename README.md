@@ -1,4 +1,4 @@
-[[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com?font=Nova&pause=1000&color=4E2973&center=FAUX&vCenter=FAUX&repeat=vrai&random=FAUX&width=435&lines=%F0%9F%9A%80+Innovatrice+Web+%F0%9F%8E%A8++%F0%9F%92%A1++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB++%E2%9C%A8+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E2973&center=FAUX&vCenter=FAUX&repeat=vrai&random=FAUX&width=435&lines=%F0%9F%9A%80+Innovatrice+Web)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @StefPel
 - 👀 I’m interested in ...
