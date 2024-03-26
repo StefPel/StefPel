@@ -3,7 +3,9 @@
 🚀 Innovatrice Web 🎨 Design & UX/UI 💡 Marketing 👨‍💻 Dev ✨ Expériences Digitales
 
 Ma passion ? Réinventer le web en fusionnant développement, design et marketing dans des solutions uniques qui captivent.
+
 Experte en transformation digitale, je crée des expériences utilisateurs qui défient l'ordinaire.
+
 Mon mantra : innover, inspirer, impacter. Un pixel à la fois, je façonne l'avenir du numérique.
 <!---
 StefPel/StefPel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
