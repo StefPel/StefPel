@@ -8,9 +8,9 @@
 <br/>
 <h3>🙋‍♀️ À Propos de Moi</h3>
 <br/>
-*Ma passion ?* Réinventer le web en fusionnant développement, design et marketing dans des solutions uniques qui captivent.<br>
+    <strong>Ma passion ?</strong> Réinventer le web en fusionnant développement, design et marketing dans des solutions uniques qui captivent.<br>
 Experte en transformation digitale, je crée des expériences utilisateurs qui défient l'ordinaire.<br>
-Mon mantra : innover, inspirer, impacter. Un pixel à la fois, je façonne l'avenir du numérique.
+<strong>Mon mantra :</strong> innover, inspirer, impacter. Un pixel à la fois, je façonne l'avenir du numérique.
 <h3>📬 Contact</h3>
 <br/>
 <div>
