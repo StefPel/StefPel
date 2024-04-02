@@ -11,18 +11,19 @@
     <strong>Ma passion ?</strong> Réinventer le web en fusionnant développement, design et marketing dans des solutions uniques qui captivent.<br>
 Experte en transformation digitale, je crée des expériences utilisateurs qui défient l'ordinaire.<br>
 <strong>Mon mantra :</strong> innover, inspirer, impacter. Un pixel à la fois, je façonne l'avenir du numérique.
-<h3>📬 Contact</h3>
+<h3>📬 Contactez-moi</h3>
 <br/>
 <div>
   <a href="https://www.linkedin.com/in/stephanie-pelouin/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-right: 10px;" />
-  </a>
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-right: 10px;" /></a>
+    <a href="https://twitter.com/VoyagEcologie" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" alt="X" style="margin-right: 10px;" /></a>
+ <a href="https://www.instagram.com/voyagecologie" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23EF5B79.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-right: 10px;" /></a>
   <a href="mailto:stephaniepelouin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2343853D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;" /></a>
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2343853D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin-right: 10px;" /></a>
 </div>
 <h3>💻 Langages, Outils & Logiciels</h3>
 <div align="center">
