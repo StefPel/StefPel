@@ -11,7 +11,7 @@
     <strong>Ma passion ?</strong> Réinventer le web en fusionnant développement, design et marketing dans des solutions uniques qui captivent.<br>
 Experte en transformation digitale, je crée des expériences utilisateurs qui défient l'ordinaire.<br>
 <strong>Mon mantra :</strong> innover, inspirer, impacter. Un pixel à la fois, je façonne l'avenir du numérique.
-<h3>📬 Contactez-moi</h3>
+<h3>🌎 Retrouvez-moi sur le web</h3>
 <br/>
 <div>
   <a href="https://www.linkedin.com/in/stephanie-pelouin/" target="_blank">
