@@ -38,6 +38,8 @@ Experte en transformation digitale, je crée des expériences utilisateurs qui d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
  <img width="12" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="chatgpt logo"  />
+    <img width="12" />
+  <img src="https://camo.githubusercontent.com/da79029ef5a44898077dfc91f19f8dff0546d76082556d5f22a4e209d8e5d90b/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" height="40" alt="saas logo"  />
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
