@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="" alt="Banner" />
-  </div>
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4E2973&center=FAUX&vCenter=FAUX&repeat=vrai&random=FAUX&width=435&lines=Bienvenue+sur+mon+GitHub;Je+suis+St%C3%A9phanie+%F0%9F%98%89" alt="Typing SVG" /></a>
-  </div>
 <h2 align="center">Consultante en Transformation Digitale | Experte en Design UX/UI & Développement Web | Passionnée par l'Innovation et l'Écologie</h2>
 <br/>
 <h3>🙋‍♀️ À Propos de Moi</h3>
