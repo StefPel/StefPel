@@ -1,16 +1,19 @@
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/D4E16AQEsHQPPsKqy-w/profile-displaybackgroundimage-shrink_350_1400/0/1710927778905?e=1717027200&v=beta&t=Ofo8RPXW7dB29KFlJ44W3qAyatEvFALirOF21a5VHaU" alt="Banner" />
+    <img src="" alt="Banner" />
   </div>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4E2973&center=FAUX&vCenter=FAUX&repeat=vrai&random=FAUX&width=435&lines=Bienvenue+sur+mon+GitHub;Je+suis+St%C3%A9phanie+%F0%9F%98%89" alt="Typing SVG" /></a>
   </div>
-<h2 align="center">🚀 Innovatrice Web 🎨 Design & UX/UI 💡 Marketing 👨‍💻 Dev ✨ Expériences Digitales</h2>
+<h2 align="center">Consultante en Transformation Digitale | Experte en Design UX/UI & Développement Web | Passionnée par l'Innovation et l'Écologie</h2>
 <br/>
 <h3>🙋‍♀️ À Propos de Moi</h3>
 <br/>
-    <strong>Ma passion ?</strong> Réinventer le web en fusionnant développement, design et marketing dans des solutions uniques qui captivent.<br>
-Experte en transformation digitale, je crée des expériences utilisateurs qui défient l'ordinaire.<br>
-<strong>Mon mantra :</strong> innover, inspirer, impacter. Un pixel à la fois, je façonne l'avenir du numérique.
+    <p>Bienvenue ! Je suis Stéphanie, consultante en transformation digitale avec une passion pour l'innovation, le design UX/UI et le développement web.</p>
+                <p>Avec une expertise approfondie en transformation digitale, j'aide les entreprises à optimiser leurs processus et à améliorer leur efficacité opérationnelle. Mon approche centrée sur l'utilisateur garantit des interfaces intuitives et esthétiques, enrichissant chaque expérience numérique.</p>
+                <p>Mon mantra : Innover, inspirer, impacter. Chaque projet est pour moi une opportunité de repousser les limites du possible et d'apporter des solutions créatives et durables.</p>
+                <p>Je suis également engagée dans le Green Web, visant à rendre le web plus écologique, et spécialisée en Prompt Engineering pour concevoir des prompts efficaces pour les modèles de langage.</p>
+                <p>Ouverte aux nouvelles opportunités, je suis prête à relever de nouveaux défis pour continuer à innover et inspirer dans le domaine du numérique.</p>
+           
 <h3>🌎 Retrouvez-moi sur le web</h3>
 <br/>
 <div>
