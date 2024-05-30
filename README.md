@@ -1,4 +1,4 @@
-<h2 align="center">Consultante en Transformation Digitale | Experte en Design UX/UI & Développement Web | Passionnée par l'Innovation et l'Écologie</h2>
+<h2 align="center">Consultante en Transformation Digitale | UX/UI Design | Développement Web | Green Web Advocate | Prompt Engineering </h2>
 <br/>
 <h3>🙋‍♀️ À Propos de Moi</h3>
 <br/>
