@@ -2,11 +2,8 @@
 <br/>
 <h3>🙋‍♀️ À Propos de Moi</h3>
 <br/>
-    <p>Bienvenue ! Je suis Stéphanie, consultante en transformation digitale avec une passion pour l'innovation, le design UX/UI et le développement web.</p>
-                <p>Avec une expertise approfondie en transformation digitale, j'aide les entreprises à optimiser leurs processus et à améliorer leur efficacité opérationnelle. Mon approche centrée sur l'utilisateur garantit des interfaces intuitives et esthétiques, enrichissant chaque expérience numérique.</p>
-                <p>Mon mantra : Innover, inspirer, impacter. Chaque projet est pour moi une opportunité de repousser les limites du possible et d'apporter des solutions créatives et durables.</p>
-                <p>Je suis également engagée dans le Green Web, visant à rendre le web plus écologique, et spécialisée en Prompt Engineering pour concevoir des prompts efficaces pour les modèles de langage.</p>
-                <p>Ouverte aux nouvelles opportunités, je suis prête à relever de nouveaux défis pour continuer à innover et inspirer dans le domaine du numérique.</p>
+    <p>Je suis spécialisée en marketing digital, optimisant le SEO et le contenu pour accroître la visibilité en ligne et attirer du trafic qualifié. </p>Engagée dans le Green Web, je développe des sites écologiques pour réduire l'empreinte carbone. </p>Mon expertise en Prompt Engineering améliore l'interaction avec les IA. </p>En tant que designer UX/UI, je crée des interfaces intuitives et esthétiques pour une meilleure expérience utilisateur. </p>Enfin, j'utilise les technologies modernes pour développer des sites web performants et réactifs. </p>Prête à relever de nouveaux défis, je suis ouverte aux opportunités pour continuer à innover dans le numérique.</p>
+            
            
 <h3>🌎 Retrouvez-moi sur le web</h3>
 <br/>
