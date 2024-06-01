@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-right: 10px;" /></a>
   <a href="mailto:stephaniepelouin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 10px;" /></a>
-<a href="" target="_blank">
+<a href="https://stefpel.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2343853D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin-right: 10px;" /></a>
 </div>
 <h3>💻 Langages, Outils & Logiciels</h3>
