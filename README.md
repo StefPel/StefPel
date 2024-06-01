@@ -1,4 +1,5 @@
-<h2 align="center">Consultante en Transformation Digitale | UX/UI Design | Développement Web | Green Web | Prompt Engineering </h2>
+<h2 align="center">📊 Consultante en Transformation Digitale 🎨 UX/UI Design 💻 Développement Web 🌱 Green Web
+🤖 Prompt Engineering</h2>
 <br/>
 <h3>🙋‍♀️ À Propos de Moi</h3>
 <br/>
